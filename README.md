@@ -29,3 +29,5 @@ RewriteRule ^folder/?$ - [F,L]
 This will internally map a request for the folder to forbidden error page.
 ```
 
+# Best Tutorial to Read .htaccess
+https://mediatemple.net/community/products/all/204643080/how-do-i-redirect-my-site-using-a-.htaccess-file
