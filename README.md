@@ -1,3 +1,6 @@
+# Best Documentation on Htaccess Offical Common 100 Best Practises
+https://www.askapache.com/htaccess/
+
 # .htaccess-file-docs
 Docs for Important code related to htaccess
 
